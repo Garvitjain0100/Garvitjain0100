@@ -55,7 +55,7 @@ A file-based user authentication system written in C.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/garvit-jain0100">
+  <a href="https://www.linkedin.com/in/Garvitjain0100">
     <img src="https://img.shields.io/badge/LinkedIn-Garvit%20Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
