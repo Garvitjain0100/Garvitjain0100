@@ -39,7 +39,7 @@ A file-based user authentication system written in C.
 - Persistent storage using file handling
 - Modular function-based structure
 
-🔗 [View Repository](https://github.com/Garvit-COLLAB/UserAuth-C-System)
+🔗 [View Repository](https://github.com/Garvitjain0100/UserAuth-C-System)
 
 ---
 
